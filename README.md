@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/nfhjgd.png" alt="image" width="90%" height="auto"> <br>
+  <img src="![Milly](https://github.com/user-attachments/assets/f706638c-285e-4c4a-a7e0-03bfa32c1343)
+" alt="image" width="90%" height="auto"> <br>
   </p>
 
-**wet?** nope, more like **soggy**.
+**werid?** nope, more like **silly**.
 **cat?** it's a **cat** for sure! <br>
 <sub> all of the edits in this repo reflect on the website itself so it's always up to date. </sub> <br>
 <sub> ``📁 thiscat ⟶ this.soggy.cat`` </sub> <sub> ``📁 team ⟶ s.soggy.cat`` </sub> <sub> ``📁 goog ⟶ goog.soggy.cat`` </sub> <sub> ``📁 bot ⟶ hourly.soggy.cat`` </sub>
